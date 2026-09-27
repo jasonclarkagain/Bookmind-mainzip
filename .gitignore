@@ -1,0 +1,16 @@
+# Xcode
+*.DS_Store
+
+## User settings
+xcuserdata/
+
+## Workspace
+*.xcworkspace
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Build
+Build/*
